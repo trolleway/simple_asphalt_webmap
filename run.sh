@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 filename=central-fed-district-latest
 wget -t http://download.geofabrik.de/russia/$filename.osm.pbf
